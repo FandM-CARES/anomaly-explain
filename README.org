@@ -6,4 +6,4 @@ ADE architecture.
 
 #Installing through local pip package
 
-In the anomaly-explain directory run `pip install .`
+In the anomaly-explain directory run ```pip install .```
