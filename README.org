@@ -3,3 +3,7 @@ ADE architecture.
 
 - [ ] Will further update.  
 - [ ] Setting new github repo.
+
+#Installing through local pip package
+
+In the anomaly-explain directory run `pip install .`
